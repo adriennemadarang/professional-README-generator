@@ -1,6 +1,4 @@
 # professional README generator
-  ![Github License](https://img.shields.io/badge/license-MIT License-yellowgreen.svg)
-
 
   ## Description 📝
 
@@ -44,5 +42,7 @@
 
   For additional questions, contact me at the email provided below. 
 
-  - GitHub: [adriennemadarang](https://github.com/adriennemadarang/)
-  - Email:  adriennemadarang@icloud.com	
+  - GitHub: [adriennemadarang](https://github.com/adriennemadarang)
+  - Email:  adriennemadarang@icloud.com
+
+This README was generated through the professional README generator
