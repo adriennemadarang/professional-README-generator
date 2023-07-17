@@ -53,8 +53,6 @@ function generateMarkdown(data) {
   
   * [Contributors](#contributors-😃)
 
-  * [Test](#tests-🧪)
-
   * [Questions](#questions)
 
   ${renderLicenseLink(data.license)}
@@ -76,14 +74,6 @@ function generateMarkdown(data) {
   ## Contributors 😃
 
   ${data.contributors}
-
-  ## Tests 🧪
-
-  To run tests, run these commands:
-
-  \`\`\`
-  ${data.test}
-  \`\`\`
 
   ## Questions
 
